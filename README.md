@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/ddb4ab6e-a958-43a7-afad-8db6672807a4)**TEST AUTOMATION USING SELENIUM**
+**TEST AUTOMATION USING SELENIUM**
 
 **COMPANY** : CODTECH IT SOLUTIONS
 
