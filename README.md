@@ -1,4 +1,4 @@
-**TEST AUTOMATION USING SELENIUM**
+![Image](https://github.com/user-attachments/assets/ddb4ab6e-a958-43a7-afad-8db6672807a4)**TEST AUTOMATION USING SELENIUM**
 
 **COMPANY** : CODTECH IT SOLUTIONS
 
@@ -19,3 +19,4 @@ This automation not only validates the login process efficiently but also ensure
 ![Image](https://github.com/user-attachments/assets/cf778417-72ec-4c9b-9e49-2b006c2ff043)
 ![Image](https://github.com/user-attachments/assets/fc6de399-b50a-44ff-b444-61954b2bf5cd)
 ![Image](https://github.com/user-attachments/assets/17e44003-a04f-4dc2-b962-94f3f9d91d67)
+![Image](https://github.com/user-attachments/assets/ddb4ab6e-a958-43a7-afad-8db6672807a4)
