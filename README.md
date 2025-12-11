@@ -18,3 +18,4 @@ It also verifies successful login with valid credentials, ensuring the user is r
 This automation not only validates the login process efficiently but also ensures consistent behavior across multiple test runs successfully and reliably. It helps reduce manual testing effort, improves testing speed, and provides accurate detection of potential login issues, making it easier to maintain the overall quality of the application.
 ![Image](https://github.com/user-attachments/assets/cf778417-72ec-4c9b-9e49-2b006c2ff043)
 ![Image](https://github.com/user-attachments/assets/fc6de399-b50a-44ff-b444-61954b2bf5cd)
+![Image](https://github.com/user-attachments/assets/17e44003-a04f-4dc2-b962-94f3f9d91d67)
