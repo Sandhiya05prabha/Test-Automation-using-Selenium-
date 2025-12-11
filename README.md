@@ -1,3 +1,5 @@
+**TEST AUTOMATION USING SELENIUM**
+
 **COMPANY** : CODTECH IT SOLUTIONS
 
 **NAME** :    SANDHIYA P
@@ -10,9 +12,7 @@
 
 **MENTOR** :  NEELA SANTHOSH 
 
-**DESCRIPTION**: This task focuses on automating the login functionality of a sample web application using Selenium WebDriver. 
-The automation script launches the browser, navigates to the login page, enters valid credentials, performs login, 
-verifies the successful login message, navigates to the dashboard, and then logs out of the application. 
-The script also includes basic validation checks to ensure the login process works correctly and the expected 
-elements are displayed. This task helps in understanding core Selenium concepts such as locating elements, 
-sending inputs, clicking buttons, adding waits, and validating results.
+**DESCRIPTION**: This task focuses on automating the login functionality of a web application using Selenium WebDriver in Python. 
+The automation handles multiple scenarios, such as entering invalid usernames and ensuring that the correct error messages are displayed clearly on the page. 
+It also verifies successful login with valid credentials, ensuring the user is redirected to the appropriate dashboard without any issues. During execution, all outputs are captured in the terminal, providing detailed step-by-step information for easier verification. 
+This automation not only validates the login process efficiently but also ensures consistent behavior across multiple test runs successfully and reliably. It helps reduce manual testing effort, improves testing speed, and provides accurate detection of potential login issues, making it easier to maintain the overall quality of the application.
